@@ -1,0 +1,20 @@
+{
+  "name": "crawd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aria2c.js",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "jquery": "^2.1.1",
+    "colors": "^1.0.3",
+    "mkdirp": "^0.5.0",
+    "request": "^2.51.0",
+    "shelljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
